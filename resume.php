@@ -54,7 +54,7 @@
 		<h2>What to know more about my professional career?</h2>
 		<h1 class="display-2">DIG A LITTLE DEEPER</h1>
 		<br>
-		<a href="resume/Resume.docx" class="btn btn-outline-light btn-lg" download="">DOWNLOAD RESUME</a>
+		<a href="resume/resume.pdf" class="btn btn-outline-light btn-lg" download="">DOWNLOAD RESUME</a>
 	</div>
 </section>
 
